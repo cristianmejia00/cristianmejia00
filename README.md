@@ -2,7 +2,7 @@
 
 I'm a data scientist and full-stack developer balancing between the academic and the startup world.
 
-#### Current roles:
+#### Current roles
 
 - 🧑🏻‍💼 **Project Assistant Professor** at the University of Tokyo
     - Measuring carbon-emissions responsibility of firms through analysis of shareholders’ investment network
@@ -17,7 +17,7 @@ I'm a data scientist and full-stack developer balancing between the academic and
 #### 🦾 Skills
 - R, Python, JavaScript (Vue.js)
 
-#### 💬 I can help you with:
+#### 💬 I can help you with
 
 - Text mining of news, academic articles, and patents
 - Social network analysis
@@ -32,5 +32,5 @@ I'm a data scientist and full-stack developer balancing between the academic and
 - Applications of LLMs for annotating data for academic use
 - Developing best practices for the application of LLMs in academia
 
-#### 📫 Feel free to reach me out at 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/crismejia00//)  
+#### 📫 Feel free to reach out at 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/crismejia00/)  
